@@ -1,0 +1,2 @@
+.btn-text
+ { color: white; } .btn-bg { background-color: crimson; } .btn-border { border:1px solid purple } .btn-shadow { box-shadow: 2px 2px 3px rgba(220, 20, 60, 0.545); } .btn { padding: 5px 10px; font-size: 16px; font-weight: bold; text-align: center; border-radius: 20px; }
